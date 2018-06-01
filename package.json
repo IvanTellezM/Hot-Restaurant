@@ -1,0 +1,24 @@
+{
+    "name": "hot-restaurant",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Barneybean/Hot-Restaurant.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Barneybean/Hot-Restaurant/issues"
+    },
+    "homepage": "https://github.com/Barneybean/Hot-Restaurant#readme",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.3"
+    }
+}
